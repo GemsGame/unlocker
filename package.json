@@ -1,0 +1,20 @@
+{
+  "name": "unlocker",
+  "version": "1.0.0",
+  "description": "The unlocker is node js library for bitcoin and ethereum search in a forgotten wallet. The lib generate wallets and trying to find crypto inside. As you know, we have a theoretical probability for that... Good luck :)",
+  "main": "index.js",
+  "type": "commonjs",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.10.0",
+    "yargs": "^17.7.2"
+  },
+  "bin": {
+    "unlocker": "index.js"
+  }
+}
