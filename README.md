@@ -1,4 +1,4 @@
-### How you can find bitcoins and became millionaire? It's easy!
+### How you can find bitcoins and became a millionaire? It's easy!
 ```
 npm install
 npm link
